@@ -2,13 +2,17 @@
 
 ### Communicating Child to Parent
 
-### INvoking Callbacks in Children
+### Invoking Callbacks in Children
 
 # Making API Request with React
 
 ### Fetching Data
 
 ### Axios vs Fetch
+
+### Binding Callbacks
+
+### Creating Custom Clients
 
 ### Handling Request with Asynch Await
 
@@ -19,3 +23,11 @@
 ### Rending Lists
 
 ### Implementing Keys in Lists
+
+# Using Ref's for DOM Access
+
+### Accessing the DOM with Refs
+
+### Accessing Image Height
+
+### Callbacks on Image Load
